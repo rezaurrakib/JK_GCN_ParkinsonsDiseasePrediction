@@ -31,7 +31,7 @@ The goal of this practical was two fold.
  - Using screening assessment results. i.e., MOCA & UPDRS test.
  - Phenotype measures, i.e., Age & Gender
 
-### Training Workflow of Jumping Knowledge Network 
+### How to train the model  
 ------
 
  - At first put __GCN__ code library in the Main Branch. Download it from [GCN Github](https://github.com/tkipf/gcn).
